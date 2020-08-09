@@ -3,4 +3,4 @@ mode: chatops
 autoCloseIssue: true
 experimental:
   branchNameArgument: true
-gitSafeReplacementChar: '+-+'
+gitSafeReplacementChar: '+ +'
