@@ -1,6 +1,7 @@
 branchName: '${issue.number}-${issue.title}'
 mode: chatops
 autoCloseIssue: true
+openDraftPR: true
 experimental:
   branchNameArgument: true
 gitSafeReplacementChar: '+-+'
