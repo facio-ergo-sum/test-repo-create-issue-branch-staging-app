@@ -4,4 +4,3 @@ autoCloseIssue: true
 openDraftPR: true
 experimental:
   branchNameArgument: true
-gitSafeReplacementChar: '+-+'
