@@ -1,5 +1,5 @@
 branchName: '${issue.number}-${issue.title}'
-mode: chatops
+mode: auto
 autoCloseIssue: true
 openDraftPR: true
 experimental:
