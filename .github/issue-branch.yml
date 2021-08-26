@@ -2,5 +2,6 @@ branchName: '${issue.number}-${issue.title}'
 mode: auto
 autoCloseIssue: true
 openDraftPR: true
+copyIssueDescriptionToPR: true
 experimental:
   branchNameArgument: true
