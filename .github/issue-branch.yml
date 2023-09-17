@@ -1,3 +1,5 @@
 conventionalPrTitles: true
 conventionalStyle: semver
-
+conventionalLabels:
+  my-prefix:
+    my-label: ':rocket:'
