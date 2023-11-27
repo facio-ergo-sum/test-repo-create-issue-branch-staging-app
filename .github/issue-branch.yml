@@ -1,3 +1,4 @@
+mode: immediate
 conventionalPrTitles: true
 conventionalStyle: semver
 conventionalLabels:
