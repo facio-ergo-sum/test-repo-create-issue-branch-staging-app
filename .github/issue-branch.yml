@@ -1,4 +1,5 @@
-mode: chatops
+mode: immediate
+openPR: true
 conventionalPrTitles: true
 conventionalStyle: semver
 conventionalLabels:
