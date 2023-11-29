@@ -1,4 +1,4 @@
-mode: immediate
+mode: auto
 openPR: true
 conventionalPrTitles: true
 conventionalStyle: semver
