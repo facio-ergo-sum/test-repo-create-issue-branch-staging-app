@@ -1,5 +1,6 @@
 mode: immediate
 openPR: false
+autoLinkIssue: true
 conventionalPrTitles: true
 conventionalStyle: semver
 conventionalLabels:
