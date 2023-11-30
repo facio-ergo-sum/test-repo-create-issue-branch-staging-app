@@ -1,5 +1,5 @@
-mode: auto
-openPR: true
+mode: immediate
+openPR: false
 conventionalPrTitles: true
 conventionalStyle: semver
 conventionalLabels:
