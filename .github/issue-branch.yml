@@ -1,4 +1,4 @@
-mode: immediate
+mode: chatops
 openPR: true
 autoLinkIssue: true
 conventionalPrTitles: true
