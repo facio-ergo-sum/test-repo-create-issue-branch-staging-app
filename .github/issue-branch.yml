@@ -1,6 +1,7 @@
 mode: chatops
-openPR: true
+openPR: false
 autoLinkIssue: true
+autoDeleteBranch: true
 conventionalPrTitles: true
 conventionalStyle: semver
 conventionalLabels:
