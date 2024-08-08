@@ -1,5 +1,6 @@
 mode: chatops
-openPR: false
+openPR: true
+autoCloseIssue: true
 autoLinkIssue: true
 autoDeleteBranch: true
 conventionalPrTitles: true
