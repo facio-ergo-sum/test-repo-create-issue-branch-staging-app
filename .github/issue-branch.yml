@@ -5,6 +5,7 @@ autoLinkIssue: true
 autoDeleteBranch: true
 conventionalPrTitles: true
 conventionalStyle: semver
+copyIssueProjectsToPR: true
 conventionalLabels:
   my-prefix:
     my-label: ':rocket:'
